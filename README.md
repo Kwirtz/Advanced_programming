@@ -43,7 +43,7 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 - Chapter 3:  GPU programming.
 - Chapter 4:  Machine learning libraries.
 
-    <img src="img/edt.png">
+[comment]: <> (<img src="img/edt.png">)
 
 <a name="Prerequisites"></a>
 ## Prerequisites
