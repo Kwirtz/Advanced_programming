@@ -102,6 +102,8 @@ The whole github repo will be considered as the Dossier.
 
 For the oral you can either use the notebook or create a powerpoint. The goal of the Oral is to have a discussion around your project. 10-15 min of presentation and around 5 minutes of questions.
 
+At the end of each chapter there will be a couple of todos. They will count as a bonus for the grade of the dossier
+
 
 <a name="Resources"></a>
 ## Resources
