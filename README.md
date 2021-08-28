@@ -35,7 +35,7 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 <a name="Program"></a>
 ## Program 
 
-30H online lecture (Discord)
+30H on-site lecture
 
 - Introduction (reminder)
 - Chapter 1:  Scraping and APIs (2h)
@@ -83,7 +83,7 @@ You will have three grades at the end of the semester for this module.
 ### Final exam
 
 Date: tbd.
-Content: Theoretical question and study case with a Python code to interpret and comment. Details tbd
+Content: Theoretical questions and study case with a Python code to interpret and comment. Details tbd
 
 ### Project = Oral + Dossier
 
@@ -96,13 +96,13 @@ I want this project to be uploaded on your github following this structure:
 - scripts (folder containing all the functions and tools you will use for the analysis)
 - Results.ipynb (jupyter notebook which runs the main "analysis" and explains the results of your project)
 
-This structure is not mandatory and depending on your project you won't able to do exactly that. BUT try to do something cleaned (you are also evaluated on the structure)
+This structure is not mandatory and depending on your project you won't able to do exactly that. BUT try to do something clean (you are also evaluated on the structure)
 
 The whole github repo will be considered as the Dossier.
 
 For the oral you can either use the notebook or create a powerpoint. The goal of the Oral is to have a discussion around your project. 10-15 min of presentation and around 5 minutes of questions.
 
-At the end of each chapter there will be a couple of todos. They will count as a bonus for the grade of the dossier
+At the end of each chapter there will be a couple of todos. These todos are not mandatory (i'd rather you focus on projects) but if you want some training feel free to do them ! 
 
 
 <a name="Resources"></a>
