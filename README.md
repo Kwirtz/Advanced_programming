@@ -18,7 +18,7 @@ Contact:
 
 About me:
  - University degree at Strasbourg (Statistics and Econometrics).
- - Second year PHD student in Economics.  (Bibliometrics, network analysis, novelty, ...)
+ - Third year PHD student in Economics. (Bibliometrics, network analysis, novelty, ...)
  - R since 2016 and Python 2018.
  - Working with SQL and noSQL databases.
 
@@ -43,7 +43,7 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 - Chapter 3:  GPU programming.
 - Chapter 4:  Machine learning libraries.
 
-[comment]: <> (<img src="img/edt.png">)
+    <img src="img/planning.png">
 
 <a name="Prerequisites"></a>
 ## Prerequisites
