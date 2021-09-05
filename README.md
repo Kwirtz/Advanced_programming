@@ -38,7 +38,7 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 30H on-site lecture
 
 - Introduction (reminder)
-- Chapter 1:  Scraping and APIs (2h)
+- Chapter 1:  Scraping and APIs.
 - Chapter 2:  Advanced concepts.
 - Chapter 3:  GPU programming.
 - Chapter 4:  Machine learning libraries.
