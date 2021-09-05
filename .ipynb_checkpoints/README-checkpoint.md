@@ -110,5 +110,6 @@ At the end of each chapter there will be a couple of todos. These todos are not 
 
 - Ramalho L. Fluent python:  Clear, concise, and effective programming.” O’Reilly Media, Inc.”; 2015 Jul 30.
 - Mitchell R. Web scraping with Python:  Collecting more data from themodern web.  ” O’Reilly Media, Inc.”; 2018 Mar 21.
+- Géron, A., 2019. Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems. O'Reilly Media.
 - https://pythonprogramming.net/introduction-intermediate-python-tutorial/
 - https://realpython.com/
