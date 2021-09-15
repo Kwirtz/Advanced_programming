@@ -82,12 +82,12 @@ You will have three grades at the end of the semester for this module.
 
 ### Final exam
 
-Date: tbd.
+Date: Vendredi 12/11 de 14h00 à 16h00.
 Content: Theoretical questions and study case with a Python code to interpret and comment. Details tbd
 
 ### Project = Oral + Dossier
 
-Date: tbd
+Date: Lundi 8/11/2021
 
 You will have a project to do, the subject is totally free, use this opportunity to do something that interests you ! 
 I want this project to be uploaded on your github following this structure:
@@ -104,6 +104,7 @@ For the oral you can either use the notebook or create a powerpoint. The goal of
 
 At the end of each chapter there will be a couple of todos. These todos are not mandatory (i'd rather you focus on projects) but if you want some training feel free to do them ! 
 
+<img src="img/Group_passage.png">
 
 <a name="Resources"></a>
 ## Resources
