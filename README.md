@@ -82,12 +82,12 @@ You will have three grades at the end of the semester for this module.
 
 ### Final exam
 
-Date: Vendredi 12/11 de 14h00 à 16h00.
+Date: Jeudi 20/10 de 9h00 à 11h00.
 Content: Theoretical questions and study case with a Python code to interpret and comment. Details tbd
 
 ### Project = Oral + Dossier
 
-Date: Lundi 8/11/2021
+Date: Lundi 17/10/2022 de 9h00 à 12h00.
 
 You will have a project to do, the subject is totally free, use this opportunity to do something that interests you ! 
 I want this project to be uploaded on your github following this structure:

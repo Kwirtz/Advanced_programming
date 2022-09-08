@@ -386,3 +386,5 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1662619213291	geckodriver	INFO	Listening on 127.0.0.1:56301
+1662619216351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kevin\\AppData\\Local\\Temp\\rust_mozprofileCGbMAO"
