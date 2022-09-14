@@ -1,0 +1,18 @@
+1663093122873	geckodriver	INFO	Listening on 127.0.0.1:52425
+1663093125963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kevin\\AppData\\Local\\Temp\\rust_mozprofileD4ONSO"
+1663093126698	Marionette	INFO	Marionette enabled
+1663093126705	Marionette	INFO	Listening on port 52433
+1663093127301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kevin\\AppData\\Local\\Temp\\rust_mozprofileD4ONSO\\search.json.mozlz4", (void 0)))
+1663093193361	Marionette	INFO	Stopped listening on port 52433
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1663093282258	geckodriver	INFO	Listening on 127.0.0.1:52471
+1663093285344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kevin\\AppData\\Local\\Temp\\rust_mozprofiletT7FxP"
+1663093286111	Marionette	INFO	Marionette enabled
+1663093286119	Marionette	INFO	Listening on port 52479
+1663093286734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kevin\\AppData\\Local\\Temp\\rust_mozprofiletT7FxP\\search.json.mozlz4", (void 0)))
+1663093480735	Marionette	INFO	Stopped listening on port 52479
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
