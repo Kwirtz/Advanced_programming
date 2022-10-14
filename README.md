@@ -40,8 +40,7 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 - Introduction (reminder)
 - Chapter 1:  Scraping and APIs.
 - Chapter 2:  Advanced concepts.
-- Chapter 3:  GPU programming.
-- Chapter 4:  Machine learning libraries.
+- Chapter 3:  GPU programming and Machine learning libraries.
 
     <img src="img/planning.png">
 
@@ -88,6 +87,7 @@ Content: Theoretical questions and study case with a Python code to interpret an
 ### Project = Oral + Dossier
 
 Date: Lundi 17/10/2022 de 9h00 à 12h00.
+Date rendu dossier: Jeudi 14/10 à 23h59.
 
 You will have a project to do, the subject is totally free, use this opportunity to do something that interests you ! 
 I want this project to be uploaded on your github following this structure:
