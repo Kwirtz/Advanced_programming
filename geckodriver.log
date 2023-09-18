@@ -3706,3 +3706,79 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 Dynamically enable window occlusion 1
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1694611364767	geckodriver	INFO	Listening on 127.0.0.1:59916
+1694611367803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kevin\\AppData\\Local\\Temp\\rust_mozprofileuheMzg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694611368045	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694611368101	Marionette	INFO	Listening on port 59949
+WebDriver BiDi listening on ws://127.0.0.1:59917
+Read port: 59949
+1694611368239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59917/devtools/browser/de0a86ac-f2e2-40f1-ae73-185e4d8d34aa
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02KkwGdpY8rPTEBN3OeH3xarr0XFBQleggKzMq0YOkOXry6B5fr6PWmvr4mtwyC0SOl8EpeLKqBadyYv553QTTv6ZTzAyaRIpcVNxdR1xTiT6xryz2mpVzcRrqye10KFwkD7ocjbr6fPYcJAqcyxAooNbOQ&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02KkwGdpY8rPTEBN3OeH3xarr0XFBQleggKzMq0YOkOXry6B5fr6PWmvr4mtwyC0SOl8EpeLKqBadyYv553QTTv6ZTzAyaRIpcVNxdR1xTiT6xryz2mpVzcRrqye10KFwkD7ocjbr6fPYcJAqcyxAooNbOQ&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02KkwGdpY8rPTEBN3OeH3xarr0XFBQleggKzMq0YOkOXry6B5fr6PWmvr4mtwyC0SOl8EpeLKqBadyYv553QTTv6ZTzAyaRIpcVNxdR1xTiT6xryz2mpVzcRrqye10KFwkD7ocjbr6fPYcJAqcyxAooNbOQ&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02KkwGdpY8rPTEBN3OeH3xarr0XFBQleggKzMq0YOkOXry6B5fr6PWmvr4mtwyC0SOl8EpeLKqBadyYv553QTTv6ZTzAyaRIpcVNxdR1xTiT6xryz2mpVzcRrqye10KFwkD7ocjbr6fPYcJAqcyxAooNbOQ&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=03UxNeqWr4FgGubU7Pfr5OgcRVMukmg8P5troJbk8jns8O4mIicpejpb8rZllWmw19DM20fxaRhJ5DakcsyTXC2btX02hNatn6DnY3pNCqdEGEJJ2C4kCcTm7YCWrdAAfWmlngnZRFK6VJoiSDPgkxrplkM&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=03UxNeqWr4FgGubU7Pfr5OgcRVMukmg8P5troJbk8jns8O4mIicpejpb8rZllWmw19DM20fxaRhJ5DakcsyTXC2btX02hNatn6DnY3pNCqdEGEJJ2C4kCcTm7YCWrdAAfWmlngnZRFK6VJoiSDPgkxrplkM&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=03UxNeqWr4FgGubU7Pfr5OgcRVMukmg8P5troJbk8jns8O4mIicpejpb8rZllWmw19DM20fxaRhJ5DakcsyTXC2btX02hNatn6DnY3pNCqdEGEJJ2C4kCcTm7YCWrdAAfWmlngnZRFK6VJoiSDPgkxrplkM&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694613280301	Marionette	INFO	Stopped listening on port 59949
+Dynamically enable window occlusion 1
+
+1694612051307	Marionette	INFO	Listening on port 63181
+WebDriver BiDi listening on ws://127.0.0.1:63156
+Read port: 63181
+1694612051461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63156/devtools/browser/54e9e851-c8b7-403d-849b-9b3a7fc27276
+1694612071555	Marionette	INFO	Stopped listening on port 63181
+Dynamically enable window occlusion 1
+1694612140949	geckodriver	INFO	Listening on 127.0.0.1:63644
+1694612144002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kevin\\AppData\\Local\\Temp\\rust_mozprofileK7jhdj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694612144263	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694612144324	Marionette	INFO	Listening on port 63670
+WebDriver BiDi listening on ws://127.0.0.1:63645
+Read port: 63670
+1694612144470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63645/devtools/browser/c26348c6-c4ac-4e32-b779-b005b085c2f8
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02OtCS3jJbCeFZr7fGcnV06rnAdn6KsBO2S2EPoDlzRV4JuQSDqACBcooA97n6lDshtcX9L0RLJZRHvbH0gl9mWDXj2Lq7CCeWV7b5dm0p7OceiWhcsnDlB9UUKx1MYBxHzrAdEDfOyCENQxbdOqKRFVGlX&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02OtCS3jJbCeFZr7fGcnV06rnAdn6KsBO2S2EPoDlzRV4JuQSDqACBcooA97n6lDshtcX9L0RLJZRHvbH0gl9mWDXj2Lq7CCeWV7b5dm0p7OceiWhcsnDlB9UUKx1MYBxHzrAdEDfOyCENQxbdOqKRFVGlX&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02OtCS3jJbCeFZr7fGcnV06rnAdn6KsBO2S2EPoDlzRV4JuQSDqACBcooA97n6lDshtcX9L0RLJZRHvbH0gl9mWDXj2Lq7CCeWV7b5dm0p7OceiWhcsnDlB9UUKx1MYBxHzrAdEDfOyCENQxbdOqKRFVGlX&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=02OtCS3jJbCeFZr7fGcnV06rnAdn6KsBO2S2EPoDlzRV4JuQSDqACBcooA97n6lDshtcX9L0RLJZRHvbH0gl9mWDXj2Lq7CCeWV7b5dm0p7OceiWhcsnDlB9UUKx1MYBxHzrAdEDfOyCENQxbdOqKRFVGlX&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=03gZh1LFgoHXlZ1ZLGyihcGqlIvGbI1CznJDZT2e9r96p6ya1GtuR2fgOHfy8nCtXHxv8QZKQDwmUMRMLGZK2G47cxhVFF0TE2ptikeYBhPUJfCYRNixEBpLQlu7osGwIHSK7kRyD6V44WHwcU8E4ld3aFn&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=03gZh1LFgoHXlZ1ZLGyihcGqlIvGbI1CznJDZT2e9r96p6ya1GtuR2fgOHfy8nCtXHxv8QZKQDwmUMRMLGZK2G47cxhVFF0TE2ptikeYBhPUJfCYRNixEBpLQlu7osGwIHSK7kRyD6V44WHwcU8E4ld3aFn&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=03gZh1LFgoHXlZ1ZLGyihcGqlIvGbI1CznJDZT2e9r96p6ya1GtuR2fgOHfy8nCtXHxv8QZKQDwmUMRMLGZK2G47cxhVFF0TE2ptikeYBhPUJfCYRNixEBpLQlu7osGwIHSK7kRyD6V44WHwcU8E4ld3aFn&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694613281298	Marionette	INFO	Stopped listening on port 63670
+Dynamically enable window occlusion 1
+SETTINGS_DEVTOOLS=1 in the environment
+1694612419259	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694612419313	Marionette	INFO	Listening on port 64995
+WebDriver BiDi listening on ws://127.0.0.1:64974
+Read port: 64995
+1694612419456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64974/devtools/browser/befae5d3-c7c0-42d4-abe1-ed24d62d6fc9
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=03TZkjmfZZW9rywkboeKrIFuZwGZQTcdEibeapsm5Ohb3MwHlI4wMu49K94yx1Q3m9MmMk6bzA2T9peb842lqL3oqw06YkGd8d2zyYykZeGEg3GFQuAe1hvqujn9XaU6boO5qNuofkKDJxzHb6WdVsAD1t2&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=03TZkjmfZZW9rywkboeKrIFuZwGZQTcdEibeapsm5Ohb3MwHlI4wMu49K94yx1Q3m9MmMk6bzA2T9peb842lqL3oqw06YkGd8d2zyYykZeGEg3GFQuAe1hvqujn9XaU6boO5qNuofkKDJxzHb6WdVsAD1t2&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=03TZkjmfZZW9rywkboeKrIFuZwGZQTcdEibeapsm5Ohb3MwHlI4wMu49K94yx1Q3m9MmMk6bzA2T9peb842lqL3oqw06YkGd8d2zyYykZeGEg3GFQuAe1hvqujn9XaU6boO5qNuofkKDJxzHb6WdVsAD1t2&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__12_abel=03TZkjmfZZW9rywkboeKrIFuZwGZQTcdEibeapsm5Ohb3MwHlI4wMu49K94yx1Q3m9MmMk6bzA2T9peb842lqL3oqw06YkGd8d2zyYykZeGEg3GFQuAe1hvqujn9XaU6boO5qNuofkKDJxzHb6WdVsAD1t2&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=021kuDeVu4YGlJbmpu5XsNqOoGm6hPypUq9k62xkkSu3JvNaxoX9ghO1ZQzzEfrdEzsY2887TVXKDJRCMjxKweqACo5blTQje43tH63epGFxn0TILxK9jNpTSZLCtwRElO8sjBOrLvua2Ka6ZUlEmNO54pA&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=021kuDeVu4YGlJbmpu5XsNqOoGm6hPypUq9k62xkkSu3JvNaxoX9ghO1ZQzzEfrdEzsY2887TVXKDJRCMjxKweqACo5blTQje43tH63epGFxn0TILxK9jNpTSZLCtwRElO8sjBOrLvua2Ka6ZUlEmNO54pA&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=021kuDeVu4YGlJbmpu5XsNqOoGm6hPypUq9k62xkkSu3JvNaxoX9ghO1ZQzzEfrdEzsY2887TVXKDJRCMjxKweqACo5blTQje43tH63epGFxn0TILxK9jNpTSZLCtwRElO8sjBOrLvua2Ka6ZUlEmNO54pA&x-kpsdk-v=j-0.0.0, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.twitch.tv."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.twitch.tv."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694613282238	Marionette	INFO	Stopped listening on port 64995
+Dynamically enable window occlusion 1
