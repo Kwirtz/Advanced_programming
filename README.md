@@ -14,7 +14,6 @@ Contact:
  - Wirtz Kevin
  - University of Strasbourg, BETA
  - kevin.wirtz@unistra.fr
- - On discord (Send me a mail if you need a new link for another account)
 
 About me:
  - University degree at Strasbourg (Statistics and Econometrics).
@@ -26,9 +25,9 @@ About me:
 <a name="Syllabus"></a>
 ## Syllabus 
 
-The aim of this course is to teach students a solid set of programming tools to tackle real-world problems. In a context of big-data, answering some questions might need you to cross multiple web sources. This implies knowing how to fetch available information (API/web scraping), how to clean this information depending on the format (xml/json/pdf), feed it to a database (SQL/noSQL) and lastly use your machine (CPU/GPU) and ressources (cloud/notebook) that is at your disposal to run some analysis (descriptive statistics, algorithm,...). The goal is to give you some insight for doing all of the above.
+The aim of this course is to teach students a solid set of programming tools to tackle real-world problems. In a context of big-data, answering some questions might need you to cross multiple web sources. This implies knowing how to fetch available information (API/web scraping), how to clean this information depending on the format (xml/json/pdf), feed it to a database (SQL/noSQL) and lastly use your machine (CPU/GPU) and ressources (cloud/notebook) that is at your disposal to run some analysis (descriptive statistics, algorithm,...). The goal is to give you some insight for doing all of the above (The database part is covered in this [repo](https://github.com/master-ds2e/NoSQL).
 
-During the whole course we are going to use Python as our programming language. We start off with a basic reminder of what you learned last year in programming (list,dicts,function,numpy, pandas, beautiful soup, regex ...). We then focus on scraping libraries and api usages to let you work on your project asap (see [Grading](#Grading) ). We then tackle more advanced concepts (Coocurence, OOP, Parallelize, Decorators, Versioning, ...). We finish with an introduction to GPU programming and machine learning libraries.
+During the whole course we are going to use Python as our programming language. We start off with a basic reminder of what you learned last year in programming (list,dicts,function,numpy, pandas, beautiful soup, regex ...). We then focus on scraping libraries and api usages to let you work on your project asap (see [Grading](#Grading) ). We then tackle more advanced concepts (Coocurence, OOP, Parallelize, Decorators, ...). The next chapter we discuss things related to programmation (Git, Package, Container, Versioning, ...). Then we discuss GPU programming and finish with an introduction to machine learning libraries and software to go further.
 
 The goal of the course is not to be exhaustive. Programming is a vast space of knowledge, sometimes you will do something I have never done before. In the end you will learn what I know and I will learn from your questions. This also means that I can't have the answers to all of your problems, basic behavior in programming is to first do research on your side. Websites like stackoverflow/stackexchange/Quora/Youtube/Github/... all of them are your best friends when it comes to solving issues. If after your own research you are still lost then you can send me a message about your problem. Either I will have the solution because I encountered it previously, or I don't but I can guide you to the solution. In no way you should ask me to code things for you, it's your job !
 
@@ -37,20 +36,22 @@ The goal of the course is not to be exhaustive. Programming is a vast space of k
 
 30H on-site lecture
 
-- Introduction (reminder)
+- Chapter 0:  Introduction and reminder
 - Chapter 1:  Scraping and APIs.
 - Chapter 2:  Advanced concepts.
-- Chapter 3:  GPU programming and Machine learning libraries.
+- Chapter 3:  Around programming
+- Chapter 4:  GPU programming and Machine learning libraries.
+- Chapter 5:  Miscellanous (Machine learning libraries and other stuff)
 
-    <img src="img/planning.png">
+[//]: # (<img src="img/planning.png">)
 
 <a name="Prerequisites"></a>
 ## Prerequisites
 
 - Prior knowledge in Python is required and familiarity with programming concepts.
 - A laptop connected to the internet and running Windows, Linux, MacOS
-- Anaconda installed, see below. Choose one of the IDE (I'll be using Spyder and Jupyter-Notebook)
-- One text editor ([Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), [Vim](https://www.vim.org/), ...)
+- Anaconda installed, see below. Choose one of the IDE (I'll be using [Visual Studio Code](https://code.visualstudio.com/))
+- One text editor ([Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), [Vim](https://www.vim.org/), [Visual Studio Code](https://code.visualstudio.com/) ...)
 
 
 If you have little experience with Python or shell programming, the following tutorials may be helpful:
@@ -70,7 +71,7 @@ If you have little experience with Python or shell programming, the following tu
     
     <img src="img/conda.png">
 
-- Install [Sublime](https://www.sublimetext.com/3)
+- Install [Visual Studio Code](https://code.visualstudio.com/)
 
 
 <a name="Evaluation system"></a>
@@ -81,13 +82,13 @@ You will have three grades at the end of the semester for this module.
 
 ### Final exam
 
-Date: Jeudi 20/10 de 9h00 à 11h00.
+Date: tbd
 Content: Theoretical questions and study case with a Python code to interpret and comment. Details tbd
 
 ### Project = Oral + Dossier
 
-Date: Lundi 17/10/2022 de 9h00 à 12h00.
-Date rendu dossier: Jeudi 14/10 à 23h59.
+Date: tbd
+Date rendu dossier: tbd
 
 You will have a project to do, the subject is totally free, use this opportunity to do something that interests you ! 
 I want this project to be uploaded on your github following this structure:
@@ -104,7 +105,7 @@ For the oral you can either use the notebook or create a powerpoint. The goal of
 
 At the end of each chapter there will be a couple of todos. These todos are not mandatory (i'd rather you focus on projects) but if you want some training feel free to do them ! 
 
-<img src="img/Group_passage.png">
+[//]: # (<img src="img/Group_passage.png">)
 
 <a name="Resources"></a>
 ## Resources
